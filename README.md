@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋 
+My name is Ilia and I am new into programming. Hopefully I will learn a lot across this journey, meeting new people and gaining unforgettable experiences.
+I am learning the basics with "Python" right now. :snake:
 
 <!--
 **N0FaceMan/N0FaceMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
